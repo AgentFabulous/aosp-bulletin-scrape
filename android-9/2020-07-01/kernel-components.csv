@@ -1,0 +1,4 @@
+CVE,Reference ID(s),Type,Severity,Component,Reference URLs
+CVE-2018-20669,A-135368228,EoP,High,i915 driver,https://android.googlesource.com/kernel/common/+/594cc251fdd0d231d342d88b2fdff4bc42fb0690
+CVE-2019-18282,A-148588557,EoP,High,Linux Networking Stack,https://android.googlesource.com/kernel/common/+/55667441c84fa5e0911a0aac44fb059c15ba6da2
+CVE-2019-20636,A-153715664,EoP,High,Input driver,https://android.googlesource.com/kernel/common/+/cb222aed03d798fc074be55e59d9a112338ee784

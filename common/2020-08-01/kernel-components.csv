@@ -1,0 +1,4 @@
+CVE,Reference ID(s),Type,Severity,Component,Reference URLs
+CVE-2020-10751,A-155485360,EoP,High,SELinux,http://android.googlesource.com/kernel/common/+/fb73974172ff
+CVE-2020-12464,A-156071259,EoP,High,Linux USB Subsystem,https://android.googlesource.com/kernel/common/+/056ad39ee925
+CVE-2019-16746,A-145728612,ID,High,Linux Wireless Subsystem,https://android.googlesource.com/kernel/common/+/f88eb7c0d002

@@ -1,0 +1,4 @@
+CVE,Reference ID(s),Type,Severity,Component,Reference URLs
+CVE-2020-8647,A-149079134,EoP,High,Kernel TTY support,https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=513dc792d6060d5ef572e43852683097a8420f56
+CVE-2020-8648,A-149079230,EoP,High,Kernel TTY support,https://android.googlesource.com/kernel/common/+/07e6124a1a46;https://android.googlesource.com/kernel/common/+/e8c75a30a23c;https://android.googlesource.com/kernel/common/+/4b70dd57a15d
+CVE-2020-8428,A-148713787,ID,High,Kernel,https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=d0cb50185ae942b03c4327be322055d622dc79f6;https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=6404674acd596de41fd3ad5f267b4525494a891a

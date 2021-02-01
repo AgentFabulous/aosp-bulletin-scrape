@@ -1,0 +1,7 @@
+CVE,Reference ID(s),Type,Severity,Updated AOSP versions,Reference URLs
+CVE-2020-0074,A-146204120,EoP,High,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/frameworks/base/+/010524415762c8d2d1e14d2a22e21fcdc6725f65;https://android.googlesource.com/platform/frameworks/base/+/8640d0c78e8c1375d92b0aad1616a5ea4839fec7
+CVE-2020-0391,A-158570769,EoP,High,"9, 10",https://android.googlesource.com/platform/frameworks/base/+/860fd4b6a2a4fe5d681bc07f2567fdc84f0d1580
+CVE-2020-0401,A-150857253,EoP,High,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/frameworks/base/+/40ca8b51fa90457cc49b91eac00636d1626b3a1b
+CVE-2020-0395,A-154124307,ID,High,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/frameworks/opt/telephony/+/0126084de146b51a842d7604cddb3303f46cade7;https://android.googlesource.com/platform/packages/services/Telephony/+/11c41d321d0c2dc3631f37d2f8f3ebc745f454d2
+CVE-2020-0397,A-155092443,ID,High,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/frameworks/opt/telephony/+/0126084de146b51a842d7604cddb3303f46cade7;https://android.googlesource.com/platform/packages/services/Telephony/+/11c41d321d0c2dc3631f37d2f8f3ebc745f454d2
+CVE-2020-0399,A-153993591,ID,High,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/frameworks/opt/telephony/+/0126084de146b51a842d7604cddb3303f46cade7;https://android.googlesource.com/platform/packages/services/Telephony/+/4e6a25843d7ef14301eb8cb5985c84d54785fbc4;https://android.googlesource.com/platform/packages/services/Telephony/+/11c41d321d0c2dc3631f37d2f8f3ebc745f454d2

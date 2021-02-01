@@ -75,7 +75,15 @@ def main():
     extract_section(soup, 'framework', args.android_version, args.out_dir)
     extract_section(soup, 'media-framework', args.android_version, args.out_dir)
     extract_section(soup, 'system', args.android_version, args.out_dir)
+    extract_section(soup, '01android-runtime', args.android_version, args.out_dir)
+    extract_section(soup, '01framework', args.android_version, args.out_dir)
+    extract_section(soup, '01media-framework', args.android_version, args.out_dir)
+    extract_section(soup, '01system', args.android_version, args.out_dir)
     extract_section(soup, 'kernel-compoents', args.android_version, args.out_dir) # Yes, "compoents". Thank you Google, very cool.
+    extract_section(soup, 'kernel-components', args.android_version, args.out_dir)
+    extract_section(soup, 'kernel', args.android_version, args.out_dir)
+    extract_section(soup, '01kernel', args.android_version, args.out_dir)
+    extract_section(soup, '05kernel', args.android_version, args.out_dir)
 
 
 if __name__ == '__main__':

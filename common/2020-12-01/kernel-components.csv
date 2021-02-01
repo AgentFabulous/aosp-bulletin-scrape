@@ -1,0 +1,4 @@
+CVE,Reference ID(s),Type,Severity,Component,Reference URLs
+CVE-2020-0444,A-150693166,EoP,High,Kernel Audit System,https://android.googlesource.com/kernel/common/+/2ad3e17ebf94b7b7f3f64c050ff168f9915345eb
+CVE-2020-0465,A-162844689,EoP,High,Kernel,https://android.googlesource.com/kernel/common/+/35556bed836f;https://android.googlesource.com/kernel/common/+/bce1305c0ece
+CVE-2020-0466,A-147802478,EoP,High,I/O Subsystem,https://android.googlesource.com/kernel/common/+/52c479697c9b;https://android.googlesource.com/kernel/common/+/a9ed4a6560b8

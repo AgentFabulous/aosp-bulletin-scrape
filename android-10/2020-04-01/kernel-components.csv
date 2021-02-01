@@ -1,0 +1,4 @@
+CVE,Reference ID(s),Type,Severity,Component,Reference URLs
+CVE-2019-19524,A-146258053,EoP,High,USB input driver,https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=fa3a5a1880c91bb92594ad42dfe9eedad7996b86
+CVE-2019-19532,A-146258320,EoP,High,USB HID drivers,https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=d9d4b1e46d9543a82c23f6df03f4ad697dab361b
+CVE-2019-19807,A-146482218,EoP,High,Audio Subsystem,https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=e7af6307a8a54f0b873960b32b6a644f2d0fbd97

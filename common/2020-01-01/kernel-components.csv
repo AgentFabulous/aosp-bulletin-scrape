@@ -1,0 +1,5 @@
+CVE,Reference ID(s),Type,Severity,Component,Reference URLs
+CVE-2019-17666,A-142967706,RCE,Critical,Realtek rtlwifi driver,https://android.googlesource.com/kernel/common/+/ee33af324931688a75bcc741f1b6cfbeb4584596
+CVE-2018-20856,A-138921316,EoP,High,Kernel,https://android.googlesource.com/kernel/common/+/c19199167c87841006350cc7c0a59881416e8748
+CVE-2019-15214,A-140920734,EoP,High,Sound subsystem,https://android.googlesource.com/kernel/common/+/b50e435df2d8b9a1d3e956e1c767dfc7e30a441b
+CVE-2020-0009,A-142938932*,EoP,High,ashmem,#asterisk
