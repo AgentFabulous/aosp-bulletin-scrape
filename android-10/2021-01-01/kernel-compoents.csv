@@ -1,0 +1,4 @@
+CVE,Reference ID(s),Type,Severity,Component,Reference URLs
+CVE-2020-10732,A-170658976,ID,High,ELF core dumps,http://android.googlesource.com/kernel/common/+/1d605416fb7175e1adf094251466caa52093b413
+CVE-2020-10766,A-169505740,ID,High,Speculative execution,https://android.googlesource.com/kernel/common/+/dbbe2ad02e9df26e372f38cc3e70dab9222c832e
+CVE-2020-10767,A-156766097,ID,High,Linux kernel,https://android.googlesource.com/kernel/common/+/21998a351512eba4ed5969006f0c55882d995ada

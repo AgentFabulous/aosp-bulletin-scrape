@@ -1,0 +1,5 @@
+CVE,Reference ID(s),Type,Severity,Updated AOSP versions,Reference URLs
+CVE-2020-0451,A-158762825,ID,High,"10, 11",https://android.googlesource.com/platform/external/aac/+/ffff95538e9994d312ffdfbba94d88ed226ef7bf
+RCE,Critical,"8.0, 8.1, 9",
+CVE-2020-0452,A-159625731,RCE,High,"8.0, 8.1, 9, 10, 11",https://android.googlesource.com/platform/external/libexif/+/8e7345f3bc0bad06ac369d6cbc1124c8ceaf7d4b
+EoP,Moderate,10,

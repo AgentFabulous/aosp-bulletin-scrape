@@ -1,0 +1,7 @@
+CVE,Reference ID(s),Type,Severity,Updated AOSP versions,Reference URLs
+CVE-2020-0022,A-143894715,DoS,Moderate,10,https://android.googlesource.com/platform/system/bt/+/3cb7149d8fed2d7d77ceaa95bf845224c4db3baf
+RCE,Critical,"8.0, 8.1, 9",
+CVE-2020-0023,A-145130871,ID,Critical,10,https://android.googlesource.com/platform/packages/apps/Bluetooth/+/0d8307f408f166862fbd6efb593c4d65906a46ae
+CVE-2020-0005,A-141552859,EOP,High,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/system/bt/+/771571f69ab9498e9104db3c5c367f1def0a5146
+CVE-2020-0026,A-140419401,EoP,High,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/frameworks/native/+/daf29a6dbfafc6c06654a3878c0ad2a7f8ebc063
+CVE-2020-0027,A-144040966,EoP,High,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/hardware/libhardware/+/2526448930008792615f8b8a718ad09f19390025

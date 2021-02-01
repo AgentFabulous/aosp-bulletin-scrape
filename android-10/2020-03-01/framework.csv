@@ -1,0 +1,2 @@
+CVE,Reference ID(s),Type,Severity,Updated AOSP versions,Reference URLs
+CVE-2020-0031,A-141703197,ID,High,10,https://android.googlesource.com/platform/cts/+/4534471b6c16a5676b85b76452d287667175c1ee;https://android.googlesource.com/platform/frameworks/base/+/514271fd61e4219e99a8e5306cdc7b80c3c1c445

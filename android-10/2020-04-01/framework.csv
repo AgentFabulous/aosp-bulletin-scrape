@@ -1,0 +1,7 @@
+CVE,Reference ID(s),Type,Severity,Updated AOSP versions,Reference URLs
+CVE-2020-0080,A-144092031,EoP,High,10,https://android.googlesource.com/platform/frameworks/base/+/40dd65db3996399530cf549b3afe0c3a5f884b78
+CVE-2020-0081,A-144028297,EoP,High,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/cts/+/22cbc0fee280788c367aa897cd2518ce82656ace;https://android.googlesource.com/platform/frameworks/base/+/5f6b5390aeb51297e4dcb995c8fbbdc46559b8b7
+CVE-2020-0082,A-140417434,EoP,High,10,https://android.googlesource.com/platform/frameworks/base/+/3484a2dd5c380c9ef7a2a6e6113a1ef01f2f7aed
+CVE-2019-5018,A-140180629,EoP,High,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/cts/+/10b9488de1ac87f8122289c3abbae6fcd193a302;https://android.googlesource.com/platform/external/sqlite/+/678cc662682a24c7c8505794fe5cc26407b646b9
+CVE-2019-8457,A-140182003,ID,High,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/cts/+/10b9488de1ac87f8122289c3abbae6fcd193a302;https://android.googlesource.com/platform/external/sqlite/+/678cc662682a24c7c8505794fe5cc26407b646b9
+CVE-2019-9936,A-140181188,ID,Moderate,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/cts/+/10b9488de1ac87f8122289c3abbae6fcd193a302;https://android.googlesource.com/platform/external/sqlite/+/678cc662682a24c7c8505794fe5cc26407b646b9

@@ -1,0 +1,4 @@
+CVE,Reference ID(s),Type,Severity,Updated AOSP versions,Reference URLs
+CVE-2020-0224,A-147664838,RCE,Critical,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/external/chromium-libpac/+/59645d5417eaf1f79edfc2b800c94638965f4e38;https://android.googlesource.com/platform/external/v8/+/0815eb32f379006135b36c574d7a283dfb3620f6
+CVE-2020-0225,A-142546668,RCE,Critical,10,https://android.googlesource.com/platform/system/bt/+/96392b0f2cfb2adc72cc7cad0d74dec8f4041582
+CVE-2020-0107,A-146570216,ID,High,10,https://android.googlesource.com/platform/packages/services/Telephony/+/a39e6c1efb02ff9c19fb91beae9b548f5c1ecc78;https://android.googlesource.com/platform/packages/services/Telephony/+/cfdfe3a8e0ff3f9951970ca69b56953f6bf49ec1

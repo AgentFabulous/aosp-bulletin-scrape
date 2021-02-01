@@ -1,0 +1,8 @@
+CVE,Reference ID(s),Type,Severity,Updated AOSP versions,Reference URLs
+CVE-2020-0014,A-128674520,EoP,High,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/frameworks/base/+/d885c3279f3fecb2c08e382c733a440113dae644
+CVE-2020-0015,A-139017101,EoP,High,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/packages/apps/CertInstaller/+/bdf1dc655cf226d10077e0926049bac0aed0127e
+CVE-2019-2200,A-67319274,EoP,High,10,https://android.googlesource.com/platform/frameworks/base/+/aa2ffea8baea65c13ac2b841b3d581f28261dd2b
+CVE-2020-0017,A-123232892,ID,High,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/frameworks/base/+/721e4d085ca3d1dc5826c0ba71615529f544d7f7;https://android.googlesource.com/platform/frameworks/base/+/ea4bce75cfebd7cef90b1e483d752b252f09333c
+CVE-2020-0018,A-139945049,ID,High,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/frameworks/native/+/7fb8682cbf494e3f1d5c79ebfbd9b020e1191679
+CVE-2020-0020,A-143118731,ID,High,10,https://android.googlesource.com/platform/frameworks/base/+/aa68a4f19e6a122b80ca1bcff57228dc795081e5
+CVE-2020-0021,A-141413692,DoS,High,10,https://android.googlesource.com/platform/frameworks/base/+/859ead528cd09f6fdf3a85df390745054058d12c;https://android.googlesource.com/platform/frameworks/base/+/fab928923c8255626049e6f459105d2e4c715384;https://android.googlesource.com/platform/frameworks/base/+/f5a3d382a97ef26fefbd15cd02c9993e77f7b813

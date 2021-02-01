@@ -1,0 +1,5 @@
+CVE,Reference ID(s),Type,Severity,Updated AOSP versions,Reference URLs
+CVE-2020-0108,A-140108616,EoP,High,"8.1, 9, 10",https://android.googlesource.com/platform/frameworks/base/+/45a53e6cb8d3276126cfe0e717ad7ed486d39b24;https://android.googlesource.com/platform/frameworks/base/+/0a163302b0288cdc4d9ca5e04398386ef8e1ec6b;https://android.googlesource.com/platform/packages/apps/Settings/+/36f182159ffae1f14a1733a3bb1334cdd9d44742;https://android.googlesource.com/platform/packages/services/Car/+/d2d8933e006efc251fda52e6807807d107f2ca12
+CVE-2020-0256,A-152874864,EoP,High,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/external/gptfdisk/+/7ffd0a26064cf25c0922f2bab511e4b4e8149083
+CVE-2020-0248,A-154627439,ID,High,10,https://android.googlesource.com/platform/frameworks/base/+/c4d6e387984e09e86a58e6485555a2d651f0481f
+CVE-2020-0250,A-154934934,ID,High,10,https://android.googlesource.com/platform/packages/services/Telephony/+/aa4283b976ea7bc5d1708472477834462a1dbdde

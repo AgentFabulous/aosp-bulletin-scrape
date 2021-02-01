@@ -1,0 +1,4 @@
+CVE,Reference ID(s),Type,Severity,Updated AOSP versions,Reference URLs
+CVE-2020-0241,A-151456667,EoP,High,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/frameworks/av/+/82f267012f29089c284340868de7375e77510e62
+CVE-2020-0242,A-151643722,EoP,High,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/frameworks/av/+/f191963f5645f59390b640136fd928e5a492aa84
+CVE-2020-0243,A-151644303,EoP,High,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/frameworks/av/+/f191963f5645f59390b640136fd928e5a492aa84

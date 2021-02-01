@@ -1,0 +1,3 @@
+CVE,Reference ID(s),Type,Severity,Updated AOSP versions,Reference URLs
+CVE-2020-0463,A-169342531,ID,High,"8.0, 8.1, 9, 10, 11",https://android.googlesource.com/platform/system/bt/+/938a5cd87c38bf35d15ffa3414c3a74faecb8bf8
+CVE-2020-15802,A-158854097,ID,High,"8.0, 8.1, 9, 10, 11",https://android.googlesource.com/platform/system/bt/+/775a5e72b34b70ff92d61d8bcc47c6bde663f02e

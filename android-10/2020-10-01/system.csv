@@ -1,0 +1,11 @@
+CVE,Reference ID(s),Type,Severity,Updated AOSP versions,Reference URLs
+CVE-2020-0215,A-140417248,EoP,High,"8.0, 8.1, 9, 10, 11",https://android.googlesource.com/platform/packages/apps/Nfc/+/8a414674747f166171f68294836967660905d068;https://android.googlesource.com/platform/packages/apps/Nfc/+/fa31fa1bfdb3b40658e617c20172085a0370b5be
+CVE-2020-0416,A-155288585,EoP,High,"8.0, 8.1, 9, 10, 11",https://android.googlesource.com/platform/packages/apps/Settings/+/4794b798c427c53a9d0f8c608c367a3e6469ed5f;https://android.googlesource.com/platform/packages/apps/Settings/+/ee4ec4b33fddb16606136f656db186ada767e8a5
+CVE-2020-0377,A-158833854,ID,High,"8.0, 8.1, 9, 10, 11",https://android.googlesource.com/platform/system/bt/+/26a348a610ec277384c98f42acd841ae647d2131
+CVE-2020-0378,A-157748906,ID,High,"9, 10, 11",https://android.googlesource.com/platform/frameworks/opt/net/wifi/+/6f1aafe2d4b979cf64ab7a5150a021f977cfed37
+CVE-2020-0398,A-154323381,ID,High,"10, 11",https://android.googlesource.com/platform/packages/services/Telephony/+/b722e6d0bef5bdcf3cf7368b765ed08a98bdee1c
+CVE-2020-0400,A-153356561,ID,High,"10, 11",https://android.googlesource.com/platform/packages/services/Telephony/+/b722e6d0bef5bdcf3cf7368b765ed08a98bdee1c
+CVE-2020-0410,A-156021269,ID,High,"8.0, 8.1, 9, 10, 11",https://android.googlesource.com/platform/packages/apps/Bluetooth/+/4e9aefd2167cffd745d92abe4c7ce3b2bdbd91ff
+CVE-2020-0413,A-158778659,ID,High,"8.0, 8.1, 9, 10, 11",https://android.googlesource.com/platform/system/bt/+/26a348a610ec277384c98f42acd841ae647d2131
+CVE-2020-0415,A-156020795,ID,High,"8.0, 8.1, 9, 10, 11",https://android.googlesource.com/platform/frameworks/base/+/a95061ca2d4676bd8083baa7252785566fc3358f
+CVE-2020-0422,A-161718556,ID,High,"8.0, 8.1, 9, 10, 11",https://android.googlesource.com/platform/packages/apps/Contacts/+/c987095255ee953de27ea1de360c44aa99b1b856

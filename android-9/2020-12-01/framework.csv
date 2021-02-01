@@ -1,0 +1,5 @@
+CVE,Reference ID(s),Type,Severity,Updated AOSP versions,Reference URLs
+CVE-2020-0099,A-141745510,EoP,High,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/frameworks/base/+/d0746b46a5d8049a7105a16eb25c44810376527e
+CVE-2020-0294,A-154915372,EoP,High,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/frameworks/base/+/d4bd69cef05d379555418a8fe748ec94ff6bd6d0
+CVE-2020-0459,A-159373687,ID,High,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/frameworks/opt/net/wifi/+/db04b29f0f6a96b19850fc17e23818855f800d61;https://android.googlesource.com/platform/frameworks/base/+/4bd54c477c89d11cfe2d84ff20098aed01cf5de9;https://android.googlesource.com/platform/packages/apps/Car/Settings/+/dd7bed0670fbdf03d9097f2ba35967544467c863;https://android.googlesource.com/platform/packages/apps/Settings/+/a9a7f65a10b7514a4070a93d419796498926b5b3;https://android.googlesource.com/platform/packages/services/Car/+/54cc1b21d5b1e75f8c1d92cac32beaa2cad6a88c
+CVE-2020-0467,A-168500792,ID,High,"8.1, 9, 10, 11",https://android.googlesource.com/platform/frameworks/base/+/61b620ad4f773e86c03e0719ae24268babcc62a9

@@ -1,0 +1,3 @@
+CVE,Reference ID(s),Type,Severity,Updated AOSP versions,Reference URLs
+CVE-2020-0002,A-142602711,RCE,Moderate,10,https://android.googlesource.com/platform/external/libavc/+/c4b0440fb7a36cd8692126404f86f1bd7a19701e
+RCE,Critical,"8.0, 8.1, 9",

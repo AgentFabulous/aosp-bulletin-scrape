@@ -1,0 +1,2 @@
+CVE,Reference ID(s),Type,Severity,Updated AOSP versions,Reference URLs
+CVE-2020-0470,A-166268541,ID,High,"10, 11",https://android.googlesource.com/platform/external/libaom/+/816f15265cb89a02d7ce4b657de277828e71a4b1

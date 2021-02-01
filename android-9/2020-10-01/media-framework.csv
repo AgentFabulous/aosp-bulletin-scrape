@@ -1,0 +1,2 @@
+CVE,Reference ID(s),Type,Severity,Updated AOSP versions,Reference URLs
+CVE-2019-2194,A-137284057,EoP,Moderate,9,https://android.googlesource.com/platform/frameworks/native/+/76923a32ab6ea25115b65ff86ade7235ba7b3a33

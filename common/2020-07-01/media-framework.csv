@@ -1,0 +1,3 @@
+CVE,Reference ID(s),Type,Severity,Updated AOSP versions,Reference URLs
+CVE-2020-9589,A-156261521,RCE,Critical,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/external/dng_sdk/+/2e8f1f0dc5ca3db8a7035938752dd230608e17ab
+CVE-2020-0226,A-150226994,EoP,High,10,https://android.googlesource.com/platform/frameworks/native/+/202515fbdb1281947323f45d3f1eb1ff3f501dda

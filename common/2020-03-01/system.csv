@@ -1,0 +1,7 @@
+CVE,Reference ID(s),Type,Severity,Updated AOSP versions,Reference URLs
+CVE-2020-0036,A-144679405,EoP,High,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/frameworks/base/+/9352cb24b1afaec657faeffdb0d40ed96d4d912b
+CVE-2020-0035,A-140622024,ID,High,"8.0, 8.1, 9",https://android.googlesource.com/platform/packages/providers/TelephonyProvider/+/099c68c403c470aaafd3a0f7d4bdf69c873d4740
+CVE-2020-0029,A-140065828,ID,High,10,https://android.googlesource.com/platform/frameworks/opt/net/wifi/+/2cda452b868328c4600a3d75759968c246cb47c8
+CVE-2020-0037,A-143106535,ID,High,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/system/nfc/+/712dcda25084434ffd3e1e0df6c0f7e65441b7f1
+CVE-2020-0038,A-143109193,ID,High,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/system/nfc/+/712dcda25084434ffd3e1e0df6c0f7e65441b7f1
+CVE-2020-0039,A-143155861,ID,High,"8.0, 8.1, 9, 10",https://android.googlesource.com/platform/system/nfc/+/712dcda25084434ffd3e1e0df6c0f7e65441b7f1
