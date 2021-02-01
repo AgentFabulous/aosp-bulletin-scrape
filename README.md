@@ -4,7 +4,7 @@ A simple script to scrape Android Security Bulletins into easy to parse CSVs.
 You may find various outputs in this repository.
 
 Usage:
-```shell
+```
 usage: main.py [-h] --patch-level PATCH_LEVEL [--android-version ANDROID_VERSION] [--out-dir OUT_DIR]
 
 optional arguments:
