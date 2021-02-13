@@ -58,6 +58,35 @@ def extract_section(soup, _id, android_version, out_dir):
         writer = csv.writer(csvfile)
         writer.writerows(output_rows)
 
+
+def dump_urls(android_version, out_dir):
+    _out_dir = '.' if out_dir is None else out_dir
+    files = [os.path.join(_out_dir, f) for f in os.listdir(_out_dir) if os.path.isfile(os.path.join(_out_dir, f)) and f != 'all_patches']
+    urls = []
+    for fname in files:
+        with open(fname, 'r') as csvfile:
+            reader = csv.reader(csvfile)
+            x = 0
+            idx = -1
+            for row in reader:
+                if x == 0:
+                    for col_idx in range(len(row)):
+                        if row[col_idx] == "Reference URLs":
+                            idx = col_idx
+                            break
+                    x += 1
+                else:
+                    if idx == -1:
+                        print("Failed to find URLs column!")
+                        return
+                    if len(row) <= idx:
+                        continue
+                    urls += row[idx].split(';')
+    with open(os.path.join(_out_dir, 'all_patches'), 'w') as all_patches:
+        for url in sorted(set(urls)):
+            all_patches.write(url + '\n')
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--patch-level", type=str, required=True,
@@ -84,6 +113,7 @@ def main():
     extract_section(soup, 'kernel', args.android_version, args.out_dir)
     extract_section(soup, '01kernel', args.android_version, args.out_dir)
     extract_section(soup, '05kernel', args.android_version, args.out_dir)
+    dump_urls(args.android_version, args.out_dir)
 
 
 if __name__ == '__main__':
