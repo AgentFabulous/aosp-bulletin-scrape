@@ -1,0 +1,11 @@
+CVE,Reference ID(s),Type,Severity,Updated AOSP versions,Reference URLs
+CVE-2021-0302,A-155287782,EoP,High,"8.1, 9, 10",https://android.googlesource.com/platform/packages/apps/PackageInstaller/+/8c5b4cd30a77733dd1012725b69d2089f78455ac
+CVE-2021-0305,A-154015447,EoP,High,"8.1, 9, 10",https://android.googlesource.com/platform/packages/apps/PackageInstaller/+/8c5b4cd30a77733dd1012725b69d2089f78455ac;https://android.googlesource.com/platform/packages/apps/Settings/+/4794b798c427c53a9d0f8c608c367a3e6469ed5f;https://android.googlesource.com/platform/packages/apps/Settings/+/7359b3840f06ef75c70d75a5708011fef25a2bab
+CVE-2021-0314,A-171221302,EoP,High,"8.1, 9, 10, 11",https://android.googlesource.com/platform/frameworks/base/+/90cfe17643aa4ecbe7cbfb1c787217456f764e08
+CVE-2021-0327,A-172935267,EoP,High,"8.1, 9, 10, 11",https://android.googlesource.com/platform/frameworks/base/+/69eaa90b0e4cc78fa2f518a50182bc9e4c9e87f3
+CVE-2021-0330,A-170732441,EoP,High,"9, 10, 11",https://android.googlesource.com/platform/system/core/+/79fc288f10814d5862a2320d0e0732040a4823fe
+CVE-2021-0334,A-163358811,EoP,High,"8.1, 9, 10, 11",https://android.googlesource.com/platform/frameworks/base/+/251dfbee7fb5986c7e93362556ea556785e4d0e4
+CVE-2021-0337,A-157474195,EoP,High,"8.1, 9, 10, 11",https://android.googlesource.com/platform/frameworks/base/+/5afa7645579a01b77005b8a60f3713ca3e653fba
+CVE-2021-0339,A-145728687,EoP,High,"8.1, 9, 10",https://android.googlesource.com/platform/frameworks/base/+/36bcc77337814d4d36e2b10eb062ac417d91611e;https://android.googlesource.com/platform/frameworks/base/+/4236b3e88fe444e2fbec7aa564fccf8b57c071dd;https://android.googlesource.com/platform/frameworks/base/+/6de34f8ee714691dbc3c089245bf832006826ebe;https://android.googlesource.com/platform/frameworks/base/+/8669ef385780b8415412407deec85539a1e7db98;https://android.googlesource.com/platform/frameworks/base/+/ee11625bb707c3512d4e44a35cc85b0bd14a2478
+CVE-2021-0340,A-134155286,EoP,High,10,https://android.googlesource.com/platform/packages/providers/MediaProvider/+/f44d9bc12acec4e7ad42b441817a99bd2223d062
+CVE-2021-0338,A-156260178,DoS,High,"10, 11",https://android.googlesource.com/platform/frameworks/base/+/41484bba25aa9f658dcc0880f5c060eb92709907
