@@ -1,0 +1,3 @@
+CVE,Reference ID(s),Type,Severity,Component,Reference URLs
+CVE-2020-15436,A-174737742,EoP,High,Kernel Block Device Subsystem,https://android.googlesource.com/kernel/common/+/49289b1fa5a67011
+CVE-2020-25705,A-174737972,ID,High,ICMP,https://android.googlesource.com/kernel/common/+/d6c552505c0d1719dda42b4af2def0618bd7bf54
