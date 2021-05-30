@@ -1,0 +1,5 @@
+CVE,Reference ID(s),Type,Severity,Updated AOSP versions,Reference URLs
+CVE-2021-0400,A-177561690,EoP,High,"9, 10, 11",https://android.googlesource.com/platform/frameworks/base/+/95602e325ae1ee9cf383db38cb0a8d47567618dc
+CVE-2021-0438,A-152064592,EoP,High,"8.1, 9, 10",https://android.googlesource.com/platform/frameworks/base/+/d49dbebe1acc5788a300cf6772f25c8ab88a1df3
+CVE-2021-0443,A-170474245,ID,High,"8.1, 9, 10, 11",https://android.googlesource.com/platform/frameworks/base/+/02d2eb5204eecfeba7aeb24f3abce9e2e9bba9f0
+CVE-2021-0444,A-178825358,ID,High,"8.1, 9, 10, 11",https://android.googlesource.com/platform/packages/apps/Contacts/+/93c93923c8d4c0c91c8ba66cd7e65036d4ba9062

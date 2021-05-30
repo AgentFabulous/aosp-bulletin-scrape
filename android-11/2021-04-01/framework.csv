@@ -1,0 +1,9 @@
+CVE,Reference ID(s),Type,Severity,Updated AOSP versions,Reference URLs
+CVE-2021-0400,A-177561690,EoP,High,"9, 10, 11",https://android.googlesource.com/platform/frameworks/base/+/95602e325ae1ee9cf383db38cb0a8d47567618dc
+CVE-2021-0426,A-174485572,EoP,High,11,https://android.googlesource.com/platform/frameworks/base/+/19845bc16e53fe3436d61e5bc220deb45b507335
+CVE-2021-0427,A-174488848,EoP,High,11,https://android.googlesource.com/platform/frameworks/base/+/19845bc16e53fe3436d61e5bc220deb45b507335
+CVE-2021-0432,A-173552790,EoP,High,11,https://android.googlesource.com/platform/frameworks/base/+/70a5fd9979ee7ff2a4071db0335813c0c5a72399
+CVE-2021-0439,A-174243830,EoP,High,11,https://android.googlesource.com/platform/frameworks/base/+/260e747d200c7b984b16bcfeca992cb3b478276f
+CVE-2021-0442,A-174768985,EoP,High,11,https://android.googlesource.com/platform/frameworks/base/+/a5eb01054b44472d32bda00066dc6ffceb9123d1
+CVE-2021-0443,A-170474245,ID,High,"8.1, 9, 10, 11",https://android.googlesource.com/platform/frameworks/base/+/02d2eb5204eecfeba7aeb24f3abce9e2e9bba9f0
+CVE-2021-0444,A-178825358,ID,High,"8.1, 9, 10, 11",https://android.googlesource.com/platform/packages/apps/Contacts/+/93c93923c8d4c0c91c8ba66cd7e65036d4ba9062
