@@ -1,0 +1,2 @@
+CVE,Reference ID(s),Type,Severity,Component,Reference URLs
+CVE-2020-29661,A-175451802,EoP,High,TTY,https://android.googlesource.com/kernel/common/+/54ffccbf053b5b6ca4f6e45094b942fab92a25fc

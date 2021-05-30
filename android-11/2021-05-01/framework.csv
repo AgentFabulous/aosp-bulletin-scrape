@@ -1,0 +1,4 @@
+CVE,Reference ID(s),Type,Severity,Updated AOSP versions,Reference URLs
+CVE-2021-0472,A-176801033,EoP,High,"9, 10, 11",https://android.googlesource.com/platform/frameworks/base/+/c90fb352cdaab0fd5adaa8957694b726045c673c
+CVE-2021-0485,A-174302616,EoP,High,11,https://android.googlesource.com/platform/frameworks/base/+/aad7fdc4f82ad56e332d3c23c5d07719e069b099
+CVE-2021-0487,A-174046397,EoP,High,11,https://android.googlesource.com/platform/packages/providers/CalendarProvider/+/8cddb2643dd823721ba5c897a089d06c56b50a60
