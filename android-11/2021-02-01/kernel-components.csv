@@ -1,0 +1,2 @@
+CVE,Reference ID(s),Type,Severity,Component,Reference URLs
+CVE-2017-18509,A-172999675,EoP,High,IPv6 multicast,https://github.com/torvalds/linux/commit/99253eb750fda6a644d5188fb26c43bad8d5a745
